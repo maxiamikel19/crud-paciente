@@ -1,0 +1,26 @@
+//Cores
+$color-1: #263238;
+$color-2: #455a64;
+$color-3: #424242;
+$color-4: #bdbdbd;
+$color-5: #212121;
+$text-color: #e0e0e0;
+
+
+//Fontes
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+$ff-ubuntu: "Ubuntu", sans-serif;
+$ff-roboto: "Roboto", sans-serif;
+
+
+.main{
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
+    background: transparent;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
